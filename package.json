@@ -1,0 +1,42 @@
+{
+  "name": "pinky-promise-theme",
+  "displayName": "Pinky Promise Theme",
+  "description": "T3 Chat syntax themes, colors by Lucia Scarlet.",
+  "icon": "images/p1s.png",
+  "version": "1.0.0",
+  "publisher": "ZubairIbnZamir",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/2u841r/pinky-promise-theme.git"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "pinky promise",
+    "pinky-promise",
+    "t3chat",
+    "t3.chat",
+    "theo",
+    "lucia"
+  ],
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+       {
+        "label": "Pinky Promise Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pinky-promise-dark.json"
+      },
+      {
+        "label": "Pinky Promise Light",
+        "uiTheme": "vs",
+        "path": "./themes/pinky-promise-light.json"
+      }
+    ]
+  }
+}
