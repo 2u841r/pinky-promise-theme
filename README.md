@@ -29,8 +29,6 @@ T3 Chat syntax themes, colors by Lucia Scarlet.
 
 
 ## Screenshots
-(Use Colorized+ Version, if you want to ignore too much Gray / ![#c0c5ce](https://placehold.co/15/C0C5CE/000000?text=+) )
-
 ### JS
 ![Screenshots](./images/demo/js.png)
 <!-- ![Screenshots](https://github.com/user/repo/raw/main/images/image.png) -->
