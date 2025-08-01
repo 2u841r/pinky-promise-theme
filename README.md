@@ -92,3 +92,6 @@ This project is open source and available under the [MIT License](LICENSE).
   <p>Svelte Theme, inspired by Svelte Docs</p>
 
 </div>
+
+
+![](https://repostats.deno.dev/2u841r/pinky-promise-theme)
