@@ -3,7 +3,7 @@
   "displayName": "Pinky Promise Theme",
   "description": "T3 Chat syntax themes, colors by Lucia Scarlet.",
   "icon": "images/p1s.png",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "ZubairIbnZamir",
   "repository": {
     "type": "git",
@@ -27,7 +27,7 @@
   ],
   "contributes": {
     "themes": [
-       {
+      {
         "label": "Pinky Promise Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/pinky-promise-dark.json"
