@@ -9,6 +9,8 @@ T3 Chat syntax themes, colors by Lucia Scarlet.
 
 [Open-VSX (for any VS Code Fork)](https://open-vsx.org/extension/ZubairIbnZamir/pinky-promise-theme)
 
+## Changelog
+Changelog Available [here](./CHANGELOG.md) 
 
 ## Colors
 
