@@ -689,6 +689,18 @@
       "settings": {
         "foreground": "#96d0bb"
       }
+    },
+    {
+      "scope": "constant.language.boolean.true",
+      "settings": {
+        "foreground": "#96d0bb"
+      }
+    },
+    {
+      "scope": "constant.language.boolean.false",
+      "settings": {
+        "foreground": "#f85149"
+      }
     }
   ]
 }
