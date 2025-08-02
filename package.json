@@ -5,6 +5,11 @@
   "icon": "images/p1s.png",
   "version": "1.0.3",
   "publisher": "ZubairIbnZamir",
+  "scripts": {
+    "vpkg": "vsce package",
+    "vpb": "vsce publish",
+    "ovpx": "npx ovpx publish"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/2u841r/pinky-promise-theme.git"
