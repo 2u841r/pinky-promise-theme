@@ -3,7 +3,7 @@
   "displayName": "Pinky Promise Theme",
   "description": "T3 Chat syntax themes, colors by Lucia Scarlet.",
   "icon": "images/p1s.png",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "publisher": "ZubairIbnZamir",
   "scripts": {
     "vpkg": "vsce package",
