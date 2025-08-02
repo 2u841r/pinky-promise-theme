@@ -8,8 +8,8 @@
   "scripts": {
     "vpkg": "vsce package",
     "vpb": "vsce publish",
-    "ovpx": "npx ovpx publish",
-    "ovpxv": "npx ovpx publish --version 1.0.4"
+    "ovpx": "npx ovsx publish",
+    "ovpxv": "npx ovsx publish --version 1.0.5"
   },
   "repository": {
     "type": "git",
