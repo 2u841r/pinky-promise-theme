@@ -7,7 +7,7 @@ T3 Chat syntax themes, colors by Lucia Scarlet.
 [Live Demo](https://vscodethemes.com/e/ZubairIbnZamir.pinky-promise-theme/)
 
 ## Download Links
-[VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=keksiqc.t3-theme)
+[VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ZubairIbnZamir.pinky-promise-theme)
 
 [Open-VSX (for any VS Code Fork)](https://open-vsx.org/extension/ZubairIbnZamir/pinky-promise-theme)
 
