@@ -96,4 +96,4 @@ This project is open source and available under the [MIT License](LICENSE).
 </div>
 
 
-![](https://repostats.deno.dev/2u841r/pinky-promise-theme)
+![](https://rs2.deno.dev/2u841r/pinky-promise-theme)

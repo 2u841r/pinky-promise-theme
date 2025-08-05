@@ -4,6 +4,11 @@ All notable changes to the "pinky-promise-theme" extension will be documented in
 
 following [Keep a Changelog](http://keepachangelog.com/).
 
+## [v1.0.5] - 05-Aug-2025
+
+### Changed
+-  ["meta.diff.header", "meta.output", "meta.separator"] in a group. 
+
 ## [v1.0.4] - 02-Aug-2025
 
 ### Changed

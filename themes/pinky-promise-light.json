@@ -642,20 +642,7 @@
       }
     },
     {
-      "scope": "meta.diff.header",
-      "settings": {
-        "foreground": "#5579bc"
-      }
-    },
-    {
-      "scope": "meta.separator",
-      "settings": {
-        "fontStyle": "bold",
-        "foreground": "#5579bc"
-      }
-    },
-    {
-      "scope": "meta.output",
+      "scope": ["meta.diff.header", "meta.output", "meta.separator"],
       "settings": {
         "foreground": "#5579bc"
       }
@@ -685,7 +672,7 @@
         "foreground": "#487e70"
       }
     },
-     {
+    {
       "scope": "constant.language.boolean.true",
       "settings": {
         "foreground": "#96d0bb"

@@ -647,20 +647,7 @@
       }
     },
     {
-      "scope": "meta.diff.header",
-      "settings": {
-        "foreground": "#a2dbff"
-      }
-    },
-    {
-      "scope": "meta.separator",
-      "settings": {
-        "fontStyle": "bold",
-        "foreground": "#a2dbff"
-      }
-    },
-    {
-      "scope": "meta.output",
+      "scope": ["meta.diff.header", "meta.output", "meta.separator"],
       "settings": {
         "foreground": "#a2dbff"
       }
